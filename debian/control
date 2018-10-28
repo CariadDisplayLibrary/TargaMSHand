@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: TargaMSHand.h
-Description: TargaMSHand font for DisplayCore
+Description: TargaMSHand
