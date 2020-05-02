@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-targamshand
+Source: libcariad-font-targamshand
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-targamshand
+Package: libcariad-font-targamshand
+Replaces: libdisplaycore-font-targamshand
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: TargaMSHand.h
 Description: TargaMSHand

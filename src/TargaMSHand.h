@@ -1,7 +1,7 @@
 #ifndef _TARGAMSHAND_H
 #define _TARGAMSHAND_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t TargaMSHand10[];
